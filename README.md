@@ -1,8 +1,9 @@
 # [poro.gg](https://poro.gg/) Clone Coding  
-  
-Spring & Vue.js
 
-## League of Legends APIs
+### 1. Framework
+  - Spring & Vue.js
+
+### 2. [Riot APIs](https://developer.riotgames.com/apis)
 |API|Feature|
 |:--|:--|
 |`ACCOUNT`|<img src="./readme_img/account-v1.png">|
@@ -32,4 +33,8 @@ Spring & Vue.js
 |`VAL-MATCH`|<img src="./readme_img/val-match-v1.png">|
 |`VAL-RANKED`|<img src="./readme_img/val-ranked-v1.png">|
 |`VAL-STATUS`|<img src="./readme_img/val-status-v1.png">|
-
+- 참고
+  - LOL: League of Legends
+  - LOR: League of Runeterra
+  - TFT: Teamfight Tactics
+  - VAL: Valorant
