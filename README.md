@@ -2,6 +2,9 @@
 
 ### 1. Framework
   - Spring & Vue.js
+  - VSCode 에서 Spring 사용하기
+    - [사이트1](https://velog.io/@jiyouan9/Spring-vscode%EB%A1%9C-Spring-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-maven%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8)
+    - [사이트2](https://velog.io/@suld2495/VSCode%EC%97%90%EC%84%9C-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ### 2. [Riot APIs](https://developer.riotgames.com/apis)
 |API|Feature|
@@ -38,3 +41,7 @@
   - LOR: League of Runeterra
   - TFT: Teamfight Tactics
   - VAL: Valorant
+- 사용할 API
+  - SUMMONER, by-name: 소환사명으로 검색하기
+  - LEAGUE, by-summoner: 소환사 리그 정보 조회하기 (티어, 승률 등)
+  
